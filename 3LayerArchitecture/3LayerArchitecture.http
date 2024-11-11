@@ -1,0 +1,6 @@
+@_3LayerArchitecture_HostAddress = http://localhost:5037
+
+GET {{_3LayerArchitecture_HostAddress}}/cliente/
+Accept: application/json
+
+###
